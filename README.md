@@ -15,5 +15,5 @@ In progress.
 The program currently is an Affirmation Generator, randomly generating an affirmation without any parameters.
 
 #### Programs Used:
-~VSCode V 1.51.1~
-~Javascript, Markdown and Git~
+*VSCode V 1.51.1*
+*Javascript, Markdown and Git*
